@@ -69,6 +69,7 @@ work:
       Responsibilities include:
       - Lead a team of 2-3 engineers for game feature development to meet revenue needs
       - Implement and Benchmark game system for scalbility
+      
       Tech stacks include: PHP, LUA, Internal CPP Engine. 
 
   - position: Software Engineer
@@ -81,41 +82,38 @@ work:
       Responsibilities include:
       - Developed SDK features used for both internal teams and external developers for 3d applications.
       - Researched and developed Web AR applications. Ex: Displays 3d models when browsering Amazon Page. 
+      
       Tech stack include: C#, JS, Unity
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Technical Skillsd
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: PHP, C#, LUA, JS, Python
+        description: Experienced in both server and client side langaugaes
+        percent: ''
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: Unity, Unreal, Blender, PlayCanvas
+        description: Knwoledgable about tools that accelarates game/app development
+        percent: ''
+        icon: 🛠️
+      - name: ReactJS, AngularJS, Chrome Extension, EMQX(publish/subscription system)
+        description: Had development experience with the libraries/tools/systems
+        percent: ''
+        icon: 🔧
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
+      - name: Tarot
+        description: 'Yeah'
         percent: 60
-        icon: person-simple-walk
+        icon: 🃏
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
   - name: English
