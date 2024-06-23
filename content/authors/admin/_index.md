@@ -11,7 +11,7 @@ last_name: Zeng
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -59,28 +59,29 @@ education:
       - Game AI
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Software Engineer 2
+    company_name: Machine Zone (Game)
+    company_url: https://mz.com
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2019-02-18
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Lead a team of 2-3 engineers for game feature development to meet revenue needs
+      - Implement and Benchmark game system for scalbility
+      Tech stacks include: PHP, LUA, Internal CPP Engine. 
+
+  - position: Software Engineer
+    company_name: zSpace (VR/AR)
+    company_url: https://zspace.com
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015-10-01
+    date_end: 2018-02-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed SDK features used for both internal teams and external developers for 3d applications.
+      - Researched and developed Web AR applications. Ex: Displays 3d models when browsering Amazon Page. 
+      Tech stack include: C#, JS, Unity
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
