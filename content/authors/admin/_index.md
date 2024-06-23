@@ -49,15 +49,32 @@ education:
     date_start: 2010-06
     date_end: 2015-06
     summary: |
-      Gained comprehensive knowledge and hand-on experience on game development: design, programming, 2d/3d animation, audio, and publish. Explored game tools including Unity, Unreal, Game Maker, varied Javascript libraries/game engines. 
-
-      GPA: 3.6/4.0
+      Gained comprehensive knowledge and hand-on experience on game development: design, programming, 2d/3d animation, audio, and publish.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
 
       Courses included:
-      - Capstone project
-      - Game Design
-      - Game AI
-
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
