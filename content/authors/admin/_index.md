@@ -44,12 +44,12 @@ interests:
   - Game System Development
 
 education:
-  - area: B.S in C.S. / Game Design
-    institution: De Anza College / UCSC
-    date_start: 2010-06
-    date_end: 2015-06
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Gained comprehensive knowledge and hand-on experience on game development: design, programming, 2d/3d animation, audio, and publish.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
