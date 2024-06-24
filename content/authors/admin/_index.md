@@ -66,11 +66,9 @@ work:
     date_start: 2019-02-18
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - Lead a team of 2-3 engineers for game feature development to meet revenue needs
-      - Implement and Benchmark game system for scalbility
-      
-      Tech stacks include: PHP, LUA, Internal CPP Engine. 
+      - Lead a team of 2-3 engineers for Game Feature Dev.
+      - Impl. and Benchmark Game System for scalbility.
+      - PHP, LUA, Internal CPP Engine. 
 
   - position: Software Engineer
     company_name: zSpace (VR/AR)
@@ -79,11 +77,8 @@ work:
     date_start: 2015-10-01
     date_end: 2018-02-01
     summary: |
-      Responsibilities include:
-      - Developed SDK features used for both internal teams and external developers for 3d applications.
-      - Researched and developed Web AR applications. Ex: Displays 3d models when browsering Amazon Page. 
-      
-      Tech stack include: C#, JS, Unity
+      - Developed SDK features.
+      - Researched and developed Web AR applications.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -91,7 +86,7 @@ skills:
   - name: Technical Skillsd
     items:
       - name: PHP, C#, LUA, JS, Python
-        description: Experienced in both server and client side langaugaes
+        description: ''
         percent: ''
         icon: code-bracket
       - name: Unity, Unreal, Blender, PlayCanvas
@@ -114,6 +109,10 @@ skills:
         description: ''
         percent: 100
         icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camer
 
 languages:
   - name: English
